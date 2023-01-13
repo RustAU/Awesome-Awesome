@@ -4,6 +4,7 @@ The Awesome list of Awesome's
 
 ## Awesome Lists
 
+- A-Z list by @maintainer
 - [Are we Game Yet?](http://arewegameyet.com/) by @rust-gamedev ([GitHub](https://github.com/rust-gamedev/arewegameyet))
 - [Are we GUI Yet?](https://www.areweguiyet.com/) by @areweguiyet ([GitHub](https://github.com/areweguiyet/areweguiyet))
 - [Are we learning yet?](https://www.arewelearningyet.com/) by @anowell ([GitHub](https://github.com/anowell/are-we-learning-yet))
@@ -15,6 +16,7 @@ The Awesome list of Awesome's
 - [Awesome Rust Testing](https://github.com/hoodie/awesome-rust-testing) by @hoodie
 - [Awesome Safety Dances](https://github.com/rust-secure-code/safety-dance) by @rust-secure-code
 - [Rust Fuzzing Authority](https://github.com/rust-fuzz) by @rust-fuzz
+- [Rust Security Related Projects](https://github.com/rust-secure-code/projects) by @rust-secure-code
 
 ## Communities
 
