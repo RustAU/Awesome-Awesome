@@ -2,6 +2,10 @@
 
 The Awesome list of Awesome's
 
+## Awesome Lists
+
+- [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo) - [cryptography.rs - Awesome Rust Cryptography](https://crytography.rs)
+
 ## Communities
 
 Hard(er) to find Rust :crab: open-to-anyone communities
