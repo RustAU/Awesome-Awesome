@@ -10,6 +10,7 @@ The Awesome list of Awesome's
 - [Are we Web Yet?](https://www.arewewebyet.org/) by [rust-lang/arewewebyet](https://github.com/rust-lang/arewewebyet)
 - [Awesome Rust Cryptography](https://cryptography.rs) by [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo)
 - [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes) by @appcypher + Contributors
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) by @rust-unofficial
 
 ## Communities
 
