@@ -12,6 +12,7 @@ The Awesome list of Awesome's
 - [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes) by @appcypher + Contributors
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) by @rust-unofficial
 - [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) by @RustBeginners ([GitHub](https://github.com/RustBeginners/awesome-rust-mentors))
+- [Awesome Rust Testing](https://github.com/hoodie/awesome-rust-testing) by @hoodie
 
 ## Communities
 
