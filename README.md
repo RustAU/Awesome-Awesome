@@ -4,7 +4,7 @@ The Awesome list of Awesome's
 
 ## Awesome Lists
 
-- [Awesome Rust Cryptography](https://crytography.rs) by [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo)
+- [Awesome Rust Cryptography](https://cryptography.rs) by [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo)
 
 ## Communities
 
