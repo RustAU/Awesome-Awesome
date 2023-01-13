@@ -16,6 +16,7 @@ The Awesome list of Awesome's
 - [Awesome Rust Testing](https://github.com/hoodie/awesome-rust-testing) by @hoodie
 - [Awesome Safety Dances](https://github.com/rust-secure-code/safety-dance) by @rust-secure-code
 - [blessed.rs](https://blessed.rs/crates) by @nicoburns
+- [cheats.rs](https://cheats.rs/) by @ralfbiedert
 - [Rust Fuzzing Authority](https://github.com/rust-fuzz) by @rust-fuzz
 - [Rust Security Related Projects](https://github.com/rust-secure-code/projects) by @rust-secure-code
 
