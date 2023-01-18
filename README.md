@@ -12,6 +12,7 @@ The Awesome list of Awesome's
 - [Awesome Rust Cryptography](https://cryptography.rs) by [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo)
 - [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes) by @appcypher + Contributors
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) by @rust-unofficial
+- [Awesome Rust Companies](https://github.com/omarabid/rust-companies) by @omarabid
 - [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) by @RustBeginners ([GitHub](https://github.com/RustBeginners/awesome-rust-mentors))
 - [Awesome Rust Testing](https://github.com/hoodie/awesome-rust-testing) by @hoodie
 - [Awesome Safety Dances](https://github.com/rust-secure-code/safety-dance) by @rust-secure-code
