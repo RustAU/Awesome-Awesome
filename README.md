@@ -33,6 +33,7 @@ Hard(er) to find Rust :crab: open-to-anyone communities
 - [eyre](https://github.com/yaahc/eyre) - [Discord](https://discord.gg/z94RqmUTKB) - Flexible concrete Error Reporting (anyhow fork)
 - [GeoRust](https://github.com/georust) - [Discord](https://discord.gg/Fp2aape)
 - [Lunatic](https://github.com/lunatic-solutions/lunatic-rs) - [Discord](https://discord.gg/b7zDqpXpB4) - Lunatic provides an [Erlang](https://www.erlang.org/)-like runtime
+- [rapl](https://github.com/JErnestoMtz/rapl) - [Discord](https://discord.gg/Dv3xW9pq) - A very interesting new project for doing tensor-based ops natively
 - [Rustacean Station](https://rustacean-station.org/) - [Discord](https://discord.gg/cHc3Gyc)
 - [Rust Audio](https://rust.audio/) - [Discord](https://discord.gg/8qW6q2k)
 - [RustAU](https://github.com/RustAU) - [Discord](https://discord.gg/pW35BNSBeV)
