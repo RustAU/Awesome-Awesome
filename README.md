@@ -18,6 +18,7 @@ The Awesome list of Awesome's
 - [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) by @RustBeginners ([GitHub](https://github.com/RustBeginners/awesome-rust-mentors))
 - [Awesome Rust Testing](https://github.com/hoodie/awesome-rust-testing) by @hoodie
 - [Awesome Safety Dances](https://github.com/rust-secure-code/safety-dance) by @rust-secure-code
+- [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis?tab=readme-ov-file#rust) by @analysis-tools-dev
 - [blessed.rs](https://blessed.rs/crates) by @nicoburns
 - [cheats.rs](https://cheats.rs/) by @ralfbiedert
 - [Rust Fuzzing Authority](https://github.com/rust-fuzz) by @rust-fuzz
